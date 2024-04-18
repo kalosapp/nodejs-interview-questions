@@ -36,7 +36,7 @@ In summary, Node.js is an open-source, cross-platform JavaScript runtime environ
     <b><a href="#">↥ back to top</a></b>
 </div>
 
-## Q. ***What is the event loop in Node.js?***
+## Q. ***What are the benefits of Node.js?***
 
 From a web server development perspective Node has a number of benefits:
 
