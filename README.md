@@ -3,7 +3,7 @@
 | Sl.No|  Questions       |
 |------|------------------|
 | 01. |[What is Node.js and why is it important?](#q-what-is-nodejs-and-why-is-it-important)|
-| 02. |[What is the event loop in Node.js?](#q-what-is-the-event-loop-in-nodejs)|
+| 02. |[What are the benefits of Node.js?](#q-what-are-the-benefits-of-nodejs)|
 | 03. |[How do you handle errors in Node.js?](#q-how-do-you-handle-errors-in-nodejs)|
 | 04. |[How do you create and use custom modules in Node.js?](#q-how-do-you-create-and-use-custom-modules-in-nodejs)|
 | 05. |[How do you handle routing in a Node.js application?](#q-how-do-you-handle-routing-in-a-nodejs-application)|
